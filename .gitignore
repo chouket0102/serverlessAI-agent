@@ -1,0 +1,7 @@
+# baseai
+**/.baseai/
+# env file
+.env
+.env.*.example
+
+node_modules/
